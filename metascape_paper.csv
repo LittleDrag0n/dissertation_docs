@@ -1,0 +1,70 @@
+﻿cell_line,Description,Log(q-value),interm_inlist,days,activity,grouping
+HF3016,ribonucleoprotein complex biogenesis,-72.551,169/488,day14,upregulated,Translation
+HF3016,Hallmark Myc  targets V1,-52.038,93/200,day14,upregulated,MYC
+HF3016,mitochondrial gene expression,-33.853,64/142,day14,upregulated,Energetics
+HF3016,Translation,-32.029,89/292,day14,upregulated,Translation
+HF3016,Hallmark MTORC1 signaling,-31.621,73/200,day14,upregulated,MTOR
+HF3016,Hallmark oxidaive phosphoryaltion,-30.728,72/200,day14,upregulated,Energetics
+HF3016,cytoplasmic translation,-43.654,65/123,day14,downregulated,Translation
+HF3016,cell population proliferation,-14.908,102/706,day14,downregulated,CELLCYCLE
+HF3016,Signaling by Receptor Tyrosine Kinases,-10.451,75/524,day14,downregulated,RTK
+HF3016,PI3K-Akt signaling pathway,-9.17,56/354,day14,downregulated,MTOR
+HF3016,Oxidative Stress Induced Senescence,-8.104,29/124,day14,downregulated,Senescence
+HF3016,Cellular Senescence,-9.551,40/196,day14,downregulated,Senescence
+HF3016,ribonucleoprotein complex biogenesis,-62.974,180/488,day42,upregulated,Translation
+HF3016,Translation,-47.928,121/292,day42,upregulated,Translation
+HF3016,mitochondrion organization,-36.034,136/451,day42,upregulated,Energetics
+HF3016,Hallmark Myc  targets V1,-24.813,74/200,day42,upregulated,MYC
+HF3016,Hallmark oxidaive phosphoryaltion,-28.037,78/200,day42,upregulated,Energetics
+HF3016,mitochondrial gene expression,-27.896,65/142,day42,upregulated,Energetics
+HF3016,Cell Cycle,-54.136,205/611,day42,downregulated,CELLCYCLE
+HF3016,Hallmark epithelial mesenchymal transition,-44.089,101/200,day42,downregulated,EMT
+HF3016,PI3K-Akt signaling pathway,-23.195,106/354,day42,downregulated,MTOR
+HF3016,Hallmark E2F targets,-31.058,86/200,day42,downregulated,CELLCYCLE
+HF3016,Signaling by Receptor Tyrosine Kinases,-34.174,156/524,day42,downregulated,RTK
+HF3016,Metabolism of RNA,-96.333,297/716,day56,upregulated,Translation
+HF3016,Cell Cycle,-96.333,295/691,day56,upregulated,CELLCYCLE
+HF3016,Hallmark E2F targets,-96.333,157/200,day56,upregulated,CELLCYCLE
+HF3016,Hallmark Myc  targets V1,-96.333,142/200,day56,upregulated,MYC
+HF3016,Hallmark MTORC1 signaling,-56.072,103/200,day56,upregulated,MTOR
+HF3016,Retinoblastoma gene in cancer,-49.648,66/90,day56,upregulated,CELLCYCLE
+HF3016,"Ribosome, cytoplasmic",-73.732,77/80,day56,downregulated,Translation
+HF3016,Translation,-32.708,101/292,day56,downregulated,Translation
+HF3016,Hallmark epithelial mesenchymal transition,-30.621,80/200,day56,downregulated,EMT
+HF3016,Signaling by Receptor Tyrosine Kinases,-25.729,129/524,day56,downregulated,RTK
+HF3016,PI3K-Akt signaling pathway,-13.35,78/339,day56,downregulated,MTOR
+HF3177,Hallmark MTORC1 signaling,-2.888,11/200,day14,upregulated,MTOR
+HF3177,Hallmark epithelial mesenchymal transition,-8.643,19/200,day14,upregulated,EMT
+HF3177,Signaling by Receptor Tyrosine Kinases,-4.647,22/524,day14,upregulated,RTK
+HF3177,PI3K-Akt signaling pathway,-1.769,12/339,day14,upregulated,MTOR
+HF3177,Cellular Senescence,-1.786,9/196,day14,upregulated,Senescence
+HF3177,Translation,-34.618,53/292,day14,downregulated,Translation
+HF3177,ribonucleoprotein complex biogenesis,-29.247,59/488,day14,downregulated,Translation
+HF3177,Hallmark Myc  targets V1,-15.611,29/200,day14,downregulated,MYC
+HF3177,Hallmark E2F targets,-1.714,11/200,day14,downregulated,CELLCYCLE
+HF3177,Hallmark epithelial mesenchymal transition,-12.655,26/200,day14,downregulated,EMT
+HF3177,Hallmark MTORC1 signaling,-9.055,22/200,day14,downregulated,MTOR
+HF3177,mitochondrion organization,-8.764,32/451,day14,downregulated,Energetics
+HF3177,ribonucleoprotein complex biogenesis,-86.432,159/488,day42,upregulated,Translation
+HF3177,Translation,-75.416,118/292,day42,upregulated,Translation
+HF3177,Hallmark interferon gamma response,-62.09,90/200,day42,upregulated,Immune
+HF3177,Hallmmark interferon alpha response,-57.883,64/97,day42,upregulated,Immune
+HF3177,Hallmark Myc  targets V1,-45.511,76/200,day42,upregulated,MYC
+HF3177,Cyclin E associated events during G1/S transition,-12.371,26/83,day42,upregulated,CELLCYCLE
+HF3177,Hallmark MTORC1 signaling,-32.998,64/200,day42,upregulated,MTOR
+HF3177,mitochondrion organization,-22.415,80/451,day42,upregulated,Energetics
+HF3177,Hallmark oxidaive phosphoryaltion,-21.792,52/200,day42,upregulated,Energetics
+HF3177,Cell Cycle,-51.646,91/611,day42,downregulated,CELLCYCLE
+HF3177,Hallmark E2F targets,-40.819,52/200,day42,downregulated,CELLCYCLE
+HF3177,Hallmark epithelial mesenchymal transition,-9.423,23/200,day42,downregulated,EMT
+HF3177,PI3K-Akt signaling pathway,-6.753,26/354,day42,downregulated,MTOR
+HF3177,Cell Cycle,-96.157,317/691,day56,upregulated,CELLCYCLE
+HF3177,Hallmark E2F targets,-96.157,157/200,day56,upregulated,CELLCYCLE
+HF3177,Hallmark Myc  targets V1,-58.885,115/200,day56,upregulated,MYC
+HF3177,Retinoblastoma gene in cancer,-41.672,65/90,day56,upregulated,CELLCYCLE
+HF3177,cytoplasmic translation,-43.279,78/123,day56,downregulated,Translation
+HF3177,Hallmark TNFA signaling via NFKB,-38.506,95/200,day56,downregulated,Immune
+HF3177,Hallmark glycolysis,-20.675,73/200,day56,downregulated,Energetics
+HF3177,Hallmark epithelial mesenchymal transition,-22.054,75/200,day56,downregulated,EMT
+HF3177,Signaling by Receptor Tyrosine Kinases,-21.305,133/524,day56,downregulated,RTK
+HF3177,Hallmark p53,-17.899,69/200,day56,downregulated,P53
